@@ -1,0 +1,40 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+}
+
+.scan-wrapper {
+  width: 15rem;
+  height: 25rem;
+  background-color: hsl(0, 0%, 100%);
+  margin: 10rem auto;
+  border: 15px solid hsl(0, 0%, 100%);
+  border-radius: 15px;
+}
+
+.scan-img {
+  width: 15rem;
+  border-radius: 15px;
+}
+
+.scan-text {
+  text-align: center;
+}
+
+.scan-header {
+  font-size: 1.2rem;
+  font-weight: 900;
+}
+
+.scan-footer {
+  font-size: 0.9rem;
+  color: hsl(220, 15%, 55%);
+}
+
+.attribution {
+  font-size: 15px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
